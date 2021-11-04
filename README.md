@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amazingonline777
 - 👀 I’m interested in making webistes for new small businesses.
 - 🌱 I’m currently learning general web development.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any new frameowork or ideas about new web development tools.
 - 📫 How to reach me : formoutlet777@gmail.com
 
 <!---
